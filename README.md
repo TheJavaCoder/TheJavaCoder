@@ -3,7 +3,7 @@ I'm a full stack developer / cloud engineer / native app dev / video game enthus
 
 Been programming for 10+ years.
 
-*languages I program in:*
+*languages I program in:* </br>
 <img src="/Languages/node.png" width="25"> (7 years), <img src="Languages/java.png" width="25"> (10 years), ![Kotlin](/Languages/K.png) (2 years), ![HTML](/Languages/html5.png) (12 years), CSS/LESS/Sass (12 years), PHP (10 years), Javascript (11 years), Objective-C (4 years), Swift, C# (2 years), C++ (3 years), Python (5 years), Perl (3 years)
 
 *Other skills:*
