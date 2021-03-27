@@ -4,7 +4,7 @@ I'm a full stack developer / cloud engineer / native app dev / video game enthus
 Been programming for 10+ years.
 
 *languages I program in:* </br>
-<img src="/Languages/node.png" width="25"> (7 years), <img src="Languages/java.png" width="25"> (10 years), ![Kotlin](/Languages/K.png) (2 years), ![HTML](/Languages/html5.png) (12 years), CSS/LESS/Sass (12 years), PHP (10 years), Javascript (11 years), Objective-C (4 years), Swift, C# (2 years), C++ (3 years), Python (5 years), Perl (3 years)
+<img src="/Languages/node.png" width="35"> <img src="Languages/java.png" width="35"> <img src="Languages/K.png" width="35"> <img src="Languages/html5.png" width="35"> <img src="Languages/css.png" width="35"> <img src="Languages/php.png.png" width="35"> <img src="Languages/javascript.png.png" width="35"> <img src="Languages/objc.png.png" width="35"> <img src="Languages/switf.png" width="35"> <img src="Languages/.png" width="35"> C# (2 years) <img src="Languages/c__.png.png" width="35"> <img src="Languages/P.png.png" width="35">, Perl (3 years)
 
 *Other skills:*
 Agile Development, Continuous Integration, Docker, Chef, Puppet, Ansible, Unity (6 years), Unreal Engine 4, Blender (8 years), Maya,  Windows (8 years), Linux (6 years), Mac OS, GIT, Excel, PowerPoint, Word, SSH, Notepad++, Adobe Software Suite, IntelliJ IDEA, Eclipse, Visual Studio Code, Android, IOS, MySQL (10 years), NoSQL, PostgreSQL, Oracle, BGP (networking)
