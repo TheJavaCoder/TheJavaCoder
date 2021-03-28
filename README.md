@@ -1,4 +1,4 @@
-<img src="Languages/baileyalpha4.png" align="right" width="150">
+<img src="Languages/baileyalpha4.png" align="right" width="165">
 
 ### Hi there 👋 my name is Bailey Costello
 
