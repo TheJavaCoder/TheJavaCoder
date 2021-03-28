@@ -11,7 +11,7 @@ Passionate about how programming can have a positive impact in business
 *Tools I use:* </br>
 <img src="/Languages/git.png" width="35"> <img src="/Languages/windowsterminalicon.png" width="35"> <img src="/Languages/Moby-logo.png" width="35">  <img src="/Languages/vscode.png" width="35">  <img src="/Languages/vs.png" width="35"> <img src="/Languages/IJ.png" width="35">  <img src="/Languages/eclipse.png" width="35">  <img src="/Languages/astudio.png" width="35"> <img src="/Languages/chef.png" width="35"> <img src="/Languages/winscp.png" width="35">
 </br>
-<img src="/Languages/photoshop.png" width="35"> <img src="/Languages/Lr2.png" width="35"> <img src="/Languages/Pr2.png" width="35">
+<img src="/Languages/photoshop.png" width="35"> <img src="/Languages/Lr2.png" width="35"> <img src="/Languages/Pr2.png" width="35"> <img src="/Languages/ae3.png" width="35"> <img src="/Languages/au4.png" width="35"> <img src="/Languages/ai5.png" width="35">
 </br>
 <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
