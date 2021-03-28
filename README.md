@@ -16,12 +16,11 @@ Passionate about how programming can have a positive impact in business
 <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
 switch(state) </br>
-{
+{</br>
+  &emsp;case "🔭 currently working", "🌱 currently learning", "👯 looking to  collaborate": </br> &emsp;&emsp; return "on Open Source Kubernetes Management"; </br>
 
-  case "🔭 currently working", "🌱 currently learning", "👯 looking to  collaborate": </br> &emsp; return "on Open Source Kubernetes Management"; </br>
-
-  case "📫 reach me":</br>
-  &emsp; return " email: bapcos@gmail.com, phone: 404-394-1810"; </br>
+  &emsp;case "📫 reach me":</br>
+  &emsp;&emsp; return " email: bapcos@gmail.com, phone: 404-394-1810"; </br>
 }
 
 <!--
