@@ -15,13 +15,12 @@ Passionate about how programming can have a positive impact in business
 </br>
 <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
-switch(state) </br>
-{</br>
-  &emsp;case "🔭 currently working", "🌱 currently learning", "👯 looking to  collaborate": </br> &emsp;&emsp; return "on Open Source Kubernetes Management"; </br>
+Github Stats!
 
-  &emsp;case "📫 reach me":</br>
-  &emsp;&emsp; return " email: bapcos@gmail.com";</br>
-}
+<p>
+<img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/overview.svg">
+<img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/languages.svg">
+</p>
 
 <!--
 **TheJavaCoder/TheJavaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
