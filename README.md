@@ -1,9 +1,12 @@
 ### Hi there 👋 my name is Bailey Costello
+<img src="Languages/baileyalpha4.png" align="right" width="200">
 I'm a full stack developer / cloud engineer / native app dev / video game enthusiast
 
 Been programming for 10+ years.
 
 Passionate about how programming can have a positive impact in business 
+
+
 
 *languages I program in:* </br>
 <img src="/Languages/node.png" width="35"> <img src="Languages/java.png" width="35"> <img src="Languages/K.png" width="35"> <img src="Languages/html5.png" width="35"> <img src="Languages/css.png" width="35"> <img src="Languages/php.png" width="35"> <img src="Languages/javascript.png" width="35"> <img src="Languages/objc.png" width="35"> <img src="Languages/swift.png" width="35"> <img src="Languages/c--4.png" width="35"> <img src="Languages/c__.png" width="35"> <img src="Languages/P.png" width="35">
