@@ -24,7 +24,7 @@ Passionate about how programming can have a positive impact in business
 </br>
 </br>
 
-<p>
+<p style="width:90%; margin-left:auto; margin-right: auto;">
 <img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/overview.svg">
 <img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/languages.svg">
 </p>
