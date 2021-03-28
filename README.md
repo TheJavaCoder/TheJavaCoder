@@ -16,7 +16,7 @@ Passionate about how programming can have a positive impact in business
 <img src="/Languages/photoshop.png" width="35"> <img src="/Languages/Lr2.png" width="35"> <img src="/Languages/Pr2.png" width="35"> <img src="/Languages/ae3.png" width="35"> <img src="/Languages/au4.png" width="35"> <img src="/Languages/ai5.png" width="35">
 <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
-### *Word Cloud of Commit Messages:*
+### *Commits:*
 
 ### *Github Stats:*
 <p style="width:90%; margin-left:auto; margin-right: auto;">
