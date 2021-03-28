@@ -4,7 +4,6 @@
 full stack developer / cloud engineer / native app dev / video game enthusiast
 
 Been programming for 10+ years.
-
 Passionate about how programming can have a positive impact in business 
 
 ### *Languages:* </br>
