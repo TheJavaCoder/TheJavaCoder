@@ -9,7 +9,7 @@ Passionate about how programming can have a positive impact in business
 
 
 <div style='max-width: 600px'>
-<span >
+<div style='display: inline-block'>
 
 ### *Languages:* </br>
 
@@ -19,8 +19,8 @@ Passionate about how programming can have a positive impact in business
 
 <img src="Languages/c--4.png" width="35"> <img src="Languages/c__.png" width="35"> <img src="Languages/P.png" width="35">  <img src="/Languages/react.png" width="35">
 
-</span>
-<span style='float: right'>
+</div>
+<div style='display: inline-block'>
 
 ### *Tools:* </br>
 
@@ -32,7 +32,7 @@ Passionate about how programming can have a positive impact in business
 
 <img src="/Languages/au4.png" width="35"> <img src="/Languages/ai5.png" width="35"> <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
-</span>
+</div>
 </div>
 
 </br>
