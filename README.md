@@ -8,10 +8,11 @@ Been programming for 10+ years.
 Passionate about how programming can have a positive impact in business 
 
 
-<p style='max-width: 600px'>
+<div style='max-width: 600px'>
 <span >
 
 ### *Languages:* </br>
+
 <img src="/Languages/node.png" width="35"> <img src="Languages/java.png" width="35"> <img src="Languages/K.png" width="35"> <img src="Languages/html5.png" width="35"> <img src="Languages/css.png " width="35"> 
 
 <img src="Languages/php.png" width="35"> <img src="Languages/javascript.png" width="35"> <img src="Languages/typescript.png" width="35"> <img src="Languages/objc.png" width="35"> <img src="Languages/swift.png" width="35"> 
@@ -20,7 +21,9 @@ Passionate about how programming can have a positive impact in business
 
 </span>
 <span style='float: right'>
+
 ### *Tools:* </br>
+
 <img src="/Languages/git.png" width="35"> <img src="/Languages/windowsterminalicon.png" width="35"> <img src="/Languages/Moby-logo.png" width="35"> <img src="/Languages/chef.png" width="35"> <img src="/Languages/ansible.png" width="35"> 
 
 <img src="/Languages/winscp.png" width="35"> <img src="/Languages/vscode.png" width="35">  <img src="/Languages/vs.png" width="35"> <img src="/Languages/IJ.png" width="35">  <img src="/Languages/eclipse.png" width="35"> 
@@ -30,7 +33,7 @@ Passionate about how programming can have a positive impact in business
 <img src="/Languages/au4.png" width="35"> <img src="/Languages/ai5.png" width="35"> <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
 </span>
-</p>
+</div>
 
 </br>
 </br>
