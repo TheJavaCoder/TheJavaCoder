@@ -6,6 +6,10 @@ Been programming for 10+ years.
 *languages I program in:* </br>
 <img src="/Languages/node.png" width="35"> <img src="Languages/java.png" width="35"> <img src="Languages/K.png" width="35"> <img src="Languages/html5.png" width="35"> <img src="Languages/css.png" width="35"> <img src="Languages/php.png" width="35"> <img src="Languages/javascript.png" width="35"> <img src="Languages/objc.png" width="35"> <img src="Languages/swift.png" width="35"> <img src="Languages/c--4.png" width="35"> <img src="Languages/c__.png" width="35"> <img src="Languages/P.png" width="35">
 
+*Tools I use:* </br>
+<img src="/Languages/git.png" width="35">
+
+
 *Other skills:*
 Agile Development, Continuous Integration, Docker, Chef, Puppet, Ansible, Unity (6 years), Unreal Engine 4, Blender (8 years), Maya,  Windows (8 years), Linux (6 years), Mac OS, GIT, Excel, PowerPoint, Word, SSH, Notepad++, Adobe Software Suite, IntelliJ IDEA, Eclipse, Visual Studio Code, Android, IOS, MySQL (10 years), NoSQL, PostgreSQL, Oracle, BGP (networking)
 
