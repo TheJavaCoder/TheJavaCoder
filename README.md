@@ -20,7 +20,7 @@ switch(state) </br>
   &emsp;case "🔭 currently working", "🌱 currently learning", "👯 looking to  collaborate": </br> &emsp;&emsp; return "on Open Source Kubernetes Management"; </br>
 
   &emsp;case "📫 reach me":</br>
-  &emsp;&emsp; return " email: bapcos@gmail.com, phone: 404-394-1810"; </br>
+  &emsp;&emsp; return " email: bapcos@gmail.com";</br>
 }
 
 <!--
