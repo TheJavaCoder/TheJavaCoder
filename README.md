@@ -15,7 +15,6 @@ Passionate about how programming can have a positive impact in business
 </br>
 <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
-Github Stats!
 
 <p>
 <img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/overview.svg">
