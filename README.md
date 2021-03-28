@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Bailey Costello
-<img src="Languages/baileyalpha4.png" align="right" width="200">
+<img src="Languages/baileyalpha4.png" align="right" width="125">
 I'm a full stack developer / cloud engineer / native app dev / video game enthusiast
 
 Been programming for 10+ years.
@@ -18,6 +18,9 @@ Passionate about how programming can have a positive impact in business
 </br>
 <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
+</br>
+</br>
+</br>
 
 <p>
 <img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/overview.svg">
