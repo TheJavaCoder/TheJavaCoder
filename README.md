@@ -17,6 +17,7 @@ Passionate about how programming can have a positive impact in business
 <img src="/Languages/unity.png" width="35"> <img src="/Languages/unreal.png" width="35"> <img src="/Languages/blender.png" width="35">
 
 ### *Github Stats:*
+Word cloud of the top 10 words in each github repo
 <p align="center">
 <img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/overview.svg">
 <img src="https://raw.githubusercontent.com/TheJavaCoder/profile-action-stats/master/generated/languages.svg">
