@@ -25,7 +25,7 @@ Word cloud of the top 10 words in each github repo
 
 ### *Commits:*
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/testSquare.png">
+<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/Square.png">
 </p>
 
 ### *Calendar:*
