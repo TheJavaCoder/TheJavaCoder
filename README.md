@@ -24,7 +24,7 @@ Passionate about how programming can have a positive impact in business
 
 ### *Commits:*
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/test.png">
+<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/testSquare.png">
 </p>
 
 ### *Calendar:*
