@@ -23,7 +23,7 @@ Passionate about how programming can have a positive impact in business
 </p>
 
 ### *Commits:*
-Word cloud of the top 10 words in each github repo </br>
+Word cloud of the top words in each github repo </br>
 (Size is by total usage, Color is per repo, Brightness is determined by usage in that repo) </br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/test.png">
