@@ -25,7 +25,7 @@ Passionate about how programming can have a positive impact in business
 ### *Commits:*
 Word cloud of the top 10 words in each github repo
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/Square.png">
+<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/test.png">
 </p>
 
 ### *Calendar:*
