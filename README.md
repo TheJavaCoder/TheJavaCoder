@@ -26,7 +26,7 @@ Passionate about how programming can have a positive impact in business
 Word cloud of the top words in each github repo </br>
 (Size is by total usage, Color is per repo, Brightness is determined by usage in that repo) </br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/test.png">
+<img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/BigSquare.png">
 </p>
 
 ### *Calendar:*
