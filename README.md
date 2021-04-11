@@ -1,6 +1,6 @@
 <img src="Languages/baileyalpha4.png" align="right" width="165">
 
-## Hi 👋 my name is Bailey Costello
+## Hi 👋 my name is Bailey
 full stack developer / cloud engineer / native app dev / video game enthusiast
 
 Been programming for 10+ years.
