@@ -4,7 +4,9 @@
 full stack developer / cloud engineer / native app dev / video game enthusiast
 
 Been programming for 10+ years.
-Passionate about how programming can have a positive impact in business 
+Passionate about how programming can have a positive impact in business. 
+Firm believer that almost anything is possible! 
+Let's talk about your goals and go on a journey together making it real.
 
 ### *Languages:* </br>
 <img src="/Languages/node.png" width="35"> <img src="Languages/java.png" width="35"> <img src="Languages/K.png" width="35"> <img src="Languages/html5.png" width="35"> <img src="Languages/css.png" width="35"> <img src="Languages/php.png" width="35"> <img src="Languages/javascript.png" width="35"> 
