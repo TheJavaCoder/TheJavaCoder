@@ -31,7 +31,7 @@ Word cloud of the top words in each github repo </br>
 <img src="https://raw.githubusercontent.com/TheJavaCoder/TheJavaCoder/main/static/big.png">
 </p>
 
-### *Calendar:*
+
 
 
 <!--
